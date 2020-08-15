@@ -1,0 +1,18 @@
+{
+  "0": {
+    "sl": 0,
+    "date": "29/07/2020",
+    "description": " Investing On Bank Brings Data.",
+    "income": "20,000",
+    "amount": "30,000",
+    "summary": "Funds from Bank"
+  },
+  "1": {
+    "sl": 1,
+    "date": "30/07/2021",
+    "description": " Brought ice cream for 20 rs.",
+    "income": "20",
+    "amount": "100",
+    "summary": "Ice Cream"
+  }
+}
